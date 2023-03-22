@@ -6,6 +6,7 @@ class contatcs{
     //metodos
     introducir(persona){
         this.arraypersonas.push(persona);
+    
     }
     printpersonas(a){
     
